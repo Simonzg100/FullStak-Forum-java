@@ -1,0 +1,4 @@
+# Project exclude paths
+/easybbs-java/easybbs-admin/target/
+/easybbs-java/easybbs-common/target/
+/easybbs-java/easybbs-web/target/
